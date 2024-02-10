@@ -1,1 +1,2 @@
-# servidor_estaticos
+# Repositório de imagens
+#
